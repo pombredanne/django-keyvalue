@@ -4,10 +4,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = "django-keyval",
+    name = "django-keyvalue",
     version = "1.0",
-    url = 'http://ondrejsika.com/docs/django-keyval',
-    download_url = 'https://github.com/sikaondrej/django-keyval',
+    url = 'http://ondrejsika.com/docs/django-keyvalue',
+    download_url = 'https://github.com/sikaondrej/django-keyvalue',
     license = 'GNU LGPL v.3',
     description = "",
     author = 'Ondrej Sika',
